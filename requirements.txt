@@ -1,0 +1,10 @@
+networkx==3.6.1
+numpy==2.4.3
+matplotlib==3.10.9
+seaborn==0.13.2
+torch==2.11.0
+torch_geometric==2.7.0
+spicy==0.16.0
+scikit-learn==1.8.0
+community==1.0.0b1
+python-louvain==0.16
